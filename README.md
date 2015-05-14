@@ -52,7 +52,7 @@ Get started with Go, the C-based Google language that emphasizes concurrency and
 
 If you’re familiar with languages such as Java, C, Ruby, or Python, you’ll learn about Go’s unique features and concepts for writing concurrent programs, including multithreading and CPU parallelism, that share state by communicating. Focused modules and hands-on exercises help you understand the basics for building simple, reliable, and efficient software with Go.
 
-###[Go Programming Blueprints](http://shop.oreilly.com/product/110000479.do)
+###[Go Programming Blueprints](http://shop.oreilly.com/product/9781783988020.do)
 
 <img src="http://akamaicovers.oreilly.com/images/9781783988020/lrg.jpg" width="120px"/>
 
